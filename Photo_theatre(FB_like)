@@ -4,7 +4,7 @@
 <style>
 #myImg {
     border-radius: 5px;
-    cursor: pointer;
+    cursor: zoom-in;
     transition: 0.3s;
 }
 
