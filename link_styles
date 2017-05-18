@@ -8,7 +8,6 @@
   crossorigin="anonymous">
   </script>
   <style type="text/css">
-      /* you can import CSS from other pens - we'll import color and typography styles from this pen */
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 body {
   background: #1e7a90;
